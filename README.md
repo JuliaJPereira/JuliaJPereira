@@ -1,6 +1,5 @@
 ## < Hello world />
-Oi! Eu sou a Julia, tenho 24 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas, além de adquirir conhecimentos voltados a programação estudando por conta própria em plataformas digitais.
-
+Oi! Eu sou a Julia, tenho 24 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas, além de adquirir conhecimentos voltados a programação estudando por conta própria, aprendendo e desenvolvendo habilidades em Desenvolvimento Front-end.
 
 ### Conhecimentos
 <code><img height="38" src="https://pics.freeicons.io/uploads/icons/png/14072054271548141949-512.png" alt="html5"/></code>
