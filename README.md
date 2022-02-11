@@ -8,6 +8,7 @@ Hi! I'm Julia, I'm 24 years old, studying Java through the +DEVS2BLU training pr
 
   
  
+
  
-#### Contato
+### Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliajpereira/)](https://www.linkedin.com/in/juliajpereira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliapereira.odc@gmail.com)](mailto:juliapereira.odc@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juliajpereira/)](https://www.instagram.com/juliajpereira/)
