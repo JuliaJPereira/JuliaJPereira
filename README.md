@@ -10,7 +10,13 @@
 <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Mysql" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> <img align="center" alt="Postgree" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> 
 
 
-<img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"> <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">
+<img align="center" alt="Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"> <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"><br><br>
+
+<div>
+  <a href="https://github.com/JuliaJPereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaJPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaJPereira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 ### Contato
