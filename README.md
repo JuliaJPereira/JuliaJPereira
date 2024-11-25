@@ -1,6 +1,6 @@
 # < Hello world />
 
-👋 Hi, I'm Julia and I'm 27 years old<br>
+👋 Hi, I'm Julia and I'm 27<br>
 :pushpin: I live in Blumenau - Santa Catarina<br>
 :computer: Developer Jr <br/>
 
