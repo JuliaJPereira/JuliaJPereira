@@ -1,8 +1,8 @@
 # < Hello world />
 
-👋 Hi, I'm Julia and I'm 27<br>
+👋 Hi, I'm Julia and I'm 29<br>
 :pushpin: I live in Blumenau - Santa Catarina<br>
-:computer: Designer and Developer Jr <br/>
+:computer: Designer and Developer <br/>
 
 
 ### Contato
